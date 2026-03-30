@@ -1,0 +1,6 @@
+Stock Portfolio Summary
+------------------------
+AAPL: 4 shares x $180 = $720
+GOOG: 2 shares x $2800 = $5600
+
+Total Investment Value: $6320
